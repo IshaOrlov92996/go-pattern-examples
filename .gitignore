@@ -1,0 +1,7 @@
+build/
+node_modules/
+*.pyc
+.venv/
+__pycache__/
+*.log
+.DS_Store
